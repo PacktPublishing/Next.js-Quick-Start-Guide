@@ -1,0 +1,25 @@
+{
+  "name": "1-1-react-router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "server": "NODE_ENV=development babel-node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-router-config": "1.0.0-beta.4",
+    "react-router-dom": "4.2.2"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "ejs": "2.5.7",
+    "express": "4.16.2",
+    "node-fetch": "2.0.0",
+    "react-scripts": "1.1.1"
+  }
+}
