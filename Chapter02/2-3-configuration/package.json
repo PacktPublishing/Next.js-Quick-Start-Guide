@@ -1,0 +1,27 @@
+{
+  "name": "2-2-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build",
+    "server": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/next": "2.4.8",
+    "@types/react": "16.0.40",
+    "@zeit/next-sass": "0.1.1",
+    "@zeit/next-typescript": "0.0.10",
+    "next": "5.0.1-canary.11",
+    "node-sass": "4.7.2",
+    "ts-loader": "3.5.0",
+    "typescript": "2.7.2"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}

@@ -1,0 +1,14 @@
+nav {
+    background: #f6f6f6;
+}
+
+.logo-css {
+    background: url(/static/js.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.logo {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+}
