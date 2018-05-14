@@ -1,0 +1,22 @@
+{
+  "name": "3-5-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "next": "5.0.1-canary.11"
+  },
+  "dependencies": {
+    "apollo-link-http": "1.5.3",
+    "graphql-tag": "2.8.0",
+    "next-apollo": "1.0.13",
+    "react": "16.2.0",
+    "react-apollo": "2.0.4",
+    "react-dom": "16.2.0"
+  }
+}

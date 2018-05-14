@@ -1,0 +1,6 @@
+{
+  "HELLO": "Hola!",
+  "BACK": "Atrás",
+  "OTHER_PAGE": "Otra página",
+  "MESSAGES": "{count, plural, =0 {Sin mensajes no leídos} one {# mensaje no leído} other {# mensajes no leídos}}"
+}

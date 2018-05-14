@@ -1,0 +1,21 @@
+{
+  "name": "7-2-docker-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build",
+    "server": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "next": "5.1.0"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "2.0.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "passPerPreset": true,
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    "relay"
+  ]
+}

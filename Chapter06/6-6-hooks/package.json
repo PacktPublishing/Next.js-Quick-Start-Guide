@@ -1,0 +1,23 @@
+{
+  "name": "6-2-unit-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "NODE_ENV=test jest",
+    "coveralls": "cat ./coverage/lcov.info | coveralls"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coveralls": "3.0.0",
+    "jest": "22.4.3",
+    "next": "5.1.0",
+    "react-test-renderer": "16.3.1"
+  },
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}

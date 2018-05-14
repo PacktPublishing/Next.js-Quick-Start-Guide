@@ -1,0 +1,24 @@
+{
+  "name": "7-4-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "now-deploy": "now -e NODE_ENV=production --token $NOW_TOKEN --npm --public",
+    "now-start": "next start",
+    "start": "next",
+    "test": "NODE_ENV=test jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "22.4.3",
+    "next": "5.1.0",
+    "now": "^11.1.5"
+  },
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}
