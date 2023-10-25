@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "next": "5.0.1-canary.11"
+    "next": "13.5.0"
   },
   "dependencies": {
     "apollo-link-http": "1.5.3",
