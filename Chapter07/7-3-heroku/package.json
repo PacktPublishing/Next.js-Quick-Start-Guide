@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "22.4.3",
-    "next": "5.1.0"
+    "next": "13.5.0"
   },
   "dependencies": {
     "react": "16.2.0",
