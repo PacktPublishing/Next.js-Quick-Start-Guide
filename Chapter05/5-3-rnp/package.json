@@ -12,7 +12,7 @@
     "body-parser": "1.18.2",
     "cookie-parser": "1.4.3",
     "express": "4.16.2",
-    "lodash": "4.17.5",
+    "lodash": "4.17.21",
     "next": "5.0.0",
     "uuid": "3.2.1"
   },
